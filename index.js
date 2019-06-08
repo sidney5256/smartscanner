@@ -24,7 +24,7 @@
 							});
 						});
 					}
-			
+			 
 			//Event listener that listenns to clicks from radio buttons to generate the memes based on options selected
 
 			function radioEvent()
